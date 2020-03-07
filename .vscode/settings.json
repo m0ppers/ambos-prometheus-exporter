@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "socket.h": "c",
+        "types.h": "c",
+        "select.h": "c",
+        "timesize.h": "c",
+        "typesizes.h": "c",
+        "select2.h": "c",
+        "microhttpd.h": "c",
+        "string.h": "c",
+        "*.tcc": "c",
+        "cerrno": "c",
+        "ambostags.h": "c",
+        "ambosdata.h": "c",
+        "ambosdata_protos.h": "c",
+        "cstdio": "c",
+        "ambosdata_pragmas.h": "c"
+    },
+    "C_Cpp.default.includePath": [
+        "${default}",
+        "{$workspaceFolder}/libmicrohttpd/include"
+    ]
+}
